@@ -1,0 +1,58 @@
+$logo-dim: 300px;
+$sm-logo-dim: 125px;
+
+body {
+  color: #333;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  .home {
+    padding: 10vh 1rem;
+  }
+  .job {
+    padding: 4vh 1rem;
+    width: 75%;
+    max-width: 720px;
+    margin: 0 auto 0 auto;
+    p, div, ul, li {
+      text-align: justify;
+    }
+    h1 {
+      padding: 1rem 0 0 0;
+    }
+    h2 {
+      padding: .5rem 0 0 0;
+    }
+    h2, h3, h4, h5 {
+      text-align: left;
+    }
+  }
+}
+
+img.foodkit-logo {
+  width: $logo-dim;
+  height: $logo-dim;
+
+  &.small-logo {
+    width: $sm-logo-dim;
+    height: $sm-logo-dim;
+  }
+}
+
+a {
+  color: rgba(#000, 0.7);
+
+  &:focus,
+  &:hover {
+    color: rgba(#000, 0.6);
+  }
+}
+
+ul.no-bullets {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.all-caps {
+  text-transform: uppercase;
+}

@@ -1,0 +1,25 @@
+<h1 class="all-caps"><%= job.title %></h1>
+
+<h2 class="all-caps">About Foodkit</h2>
+<div class="about">
+  <%= partial "partials/about" %>
+</div>
+
+<h2 class="all-caps">Job Description</h2>
+<div class="description">
+  <%= job.description %>
+</div>
+
+<h2 class="all-caps">Responsibilities</h2>
+<div class="responsibilities">
+  <% job.responsibilities.each do |responsibility| %>
+    <li><%= responsibility %></li>
+  <% end %>
+</div>
+
+<h2 class="all-caps">Experience</h2>
+<div class="experiences">
+  <% job.experiences.each do |experience| %>
+    <li><%= experience %></li>
+  <% end %>
+</div>

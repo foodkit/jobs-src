@@ -1,31 +1,32 @@
 {
   "jobs": {
     "frontend_engineer": {
-      "title": "Frontend Engineer",
+      "title": "Senior Frontend Engineer (Angular)",
       "department": "Engineering",
       "slug": "frontend-engineer",
-      "description": "We're looking for a JavaScript developer with previous hybrid mobile app development experience to help us build and maintain a world-class suite of tools for restaurants and F&B brands. Our stack includes multiple Ionic 2/3 apps (consumer-facing <i>and</i> back of house) so you'll be working simultaneously across multiple codebases. As a small and fast-paced team, you'll be wearing multiple hats and will have the opportunity to see how the sausage gets made at an early stage technology startup.<br><br>We're 100% remote and proud of it. You can pick where and when you work, as long as you stay productive and we have some overlapping hours to do standups. Our company has registered entities in Thailand and Singapore so we can offer sponsored visas if you'd like to live-in or visit either country.<br><br>We're looking for a \"smart and gets shit done\" kind of person, so real world experience and the right attitude trumps formal accreditation. ",
+      "description": "We're looking for an experienced frontend developer to join the Foodkit team. You'll use the latest versions of Angular to build performant and responsive user interfaces for restaurant owners/operators and their customers.<br><br>You'll be helping us to build out new features on a number of codebases, including consumer facing websites, back-of-house content management systems and even hybrid mobile applications. Our customers use our platform to operate their business online so it's crucial we provide rock-solid software that works across a broad range of devices and operating systems.<br><br>As a remote worker, you can pick where and when you work, as long as you stay productive and we have some overlapping hours to do standups.",
       "responsibilities": [
-        "Maintain and improve existing Ionic 2/3 codebases.",
-        "Write performant and maintainable front-end code with a focus on reuse and cross platform compatibility.",
-        "Integrate with existing RESTful APIs, and help detail requirements of new APIs where required.",
-        "Take part in code reviews and technical discussions.",
+        "Collaborate with the CEO and CTO to design, plan and build frontend solutions to solve real-world problems for restaurant owners/operators.",
+        "Write performant and maintainable frontend code with a focus on re-use and testability.",
+        "Integrate with existing RESTful APIs, and help detail requirements of new APIs where necessary.",
         "Help us to plan and estimate projects based on business needs (communicated through user stories and functional requirements).",
+        "Advocate the latest frontend technologies and standards within the team to ensure we are always using the best tools and techniques.",
         "Join (quick) daily stand-up meetings using video conferencing tools (Skype, Slack, Appear.in).",
-        "Help us to continuously improve our engineering processes and working environment."
+        "Take part in code reviews and technical discussions."
       ],
       "experiences": [
-        "Prior experience with hybrid mobile app technologies (e.g Cordova). Bonus points for Ionic 1/2/3 experience.",
-        "Knowledge of agile software development practices and concepts (scrum/kanban, CI, etc...)",
+        "Multiple years working in a professional software development environment.",
+        "Strong skills in ES6/TypeScript development, as well as a deep understanding of associated frontend tooling (NPM, webpack, babel, linters).",
+        "Experience working with LARGE Single Page web Applications (SPAs) using either Angular, React, Vue.js or a similar framework.",
+        "Knowledge of agile software development practices and concepts (scrum/kanban, unit testing, continuous integration, etc...)",
         "Functional knowledge of Git and GitHub.",
-        "At least 1 previous gig/job where you've worked remotely.",
         "Proficient English communication skills, both written and spoken.",
-        "A passion for restaurants, cuisine or just good food in general. For bonus points include your favourite cuisine and dish in your intro email."
+        "A passion for restaurants, cuisine or just good food in general. For bonus points include your favourite cuisine or dish in your intro email."
       ],
       "link": "mailto:careers@foodkit.io?subject=Frontend%20Engineer"
     },
     "api_engineer": {
-      "title": "API Engineer",
+      "title": "API Engineer (Laravel)",
       "department": "Engineering",
       "slug": "api-engineer",
       "description": "We're looking for a seasoned backend developer to help us maintain and expand our suite of internal and external APIs for the restaurant industry. Our RESTful API services multiple clients (mobiles apps, websites, third-party services) so experience with API versioning, caching and token-based security mechanisms is a must. You'll be designing, documenting, building and deploying RESTful JSON APIs on a daily basis.<br><br>As a remote worker, you can pick where and when you work, as long as you stay productive and we have some overlapping hours to do standups.",
@@ -35,7 +36,7 @@
         "Continuously ship real value to the end user.",
         "Deliver performant, maintainable and tested systems.",
         "Work with the team to plan and estimate project timelines and delivery dates.",
-        "Take part in daily stand-up meetings.",
+        "Join (quick) daily stand-up meetings using video conferencing tools (Skype, Slack, Appear.in).",
         "Help to refine and develop the processes and procedures of the engineering team."
       ],
       "experiences": [

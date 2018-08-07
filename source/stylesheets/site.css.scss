@@ -38,6 +38,27 @@ img.foodkit-logo {
   }
 }
 
+a.application-link {
+  &:hover {
+    color: white !important;
+  }
+  padding-top: 1rem;
+  margin: 3rem 0 4rem 0;
+  font-weight: bold;
+  font-size: .8rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 100px;
+  display: inline-block;
+  width: 145px;
+  height: 33px;
+  color: white;
+  background-color: rgba(63, 160, 242, 1);
+  border: solid rgba(182, 243, 232, 1) 0px;
+  cursor: pointer !important;
+  justify-content: center;
+}
+
 a {
   color: rgba(#000, 0.7);
 

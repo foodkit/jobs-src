@@ -1,10 +1,10 @@
 {
   "jobs": {
     "frontend_engineer": {
-      "title": "Ionic Developer",
+      "title": "Frontend Engineer",
       "department": "Engineering",
-      "slug": "engineering",
-      "description": "We're looking for a JavaScript developer with previous hybrid mobile app development experience to help us build and maintain a world-class suite of tools for restaurants and F&B brands. Our stack includes multiple Ionic 2/3 apps (consumer-facing <i>and</i> back of house) so you'll be working simultaneously across multiple codebases. As a small and fast-paced team, you'll be wearing multiple hats and will have the opportunity to see how the sausage gets made at an early stage technology startup.<br><br>We're 100% remote and proud of it. You can pick where and when you work, as long as you stay productive and we have some overlapping hours to do standups. Our company has registered entities in Thailand and Singapore so we can offer sponsored visas if you'd like to live-in or visit either country.<br><br>We're looking for a \"smart and gets s**t done\" kind of person, so real world experience and the right attitude trumps formal accreditation. ",
+      "slug": "frontend-engineer",
+      "description": "We're looking for a JavaScript developer with previous hybrid mobile app development experience to help us build and maintain a world-class suite of tools for restaurants and F&B brands. Our stack includes multiple Ionic 2/3 apps (consumer-facing <i>and</i> back of house) so you'll be working simultaneously across multiple codebases. As a small and fast-paced team, you'll be wearing multiple hats and will have the opportunity to see how the sausage gets made at an early stage technology startup.<br><br>We're 100% remote and proud of it. You can pick where and when you work, as long as you stay productive and we have some overlapping hours to do standups. Our company has registered entities in Thailand and Singapore so we can offer sponsored visas if you'd like to live-in or visit either country.<br><br>We're looking for a \"smart and gets shit done\" kind of person, so real world experience and the right attitude trumps formal accreditation. ",
       "responsibilities": [
         "Maintain and improve existing Ionic 2/3 codebases.",
         "Write performant and maintainable front-end code with a focus on reuse and cross platform compatibility.",
@@ -22,34 +22,35 @@
         "Proficient English communication skills, both written and spoken.",
         "A passion for restaurants, cuisine or just good food in general. For bonus points include your favourite cuisine and dish in your intro email."
       ],
-      "link": "mailto:careers@foodkit.io?subject=JavaScript%20Developer"
+      "link": "mailto:careers@foodkit.io?subject=Frontend%20Engineer"
     },
     "api_engineer": {
-      "title": "API Developer",
+      "title": "API Engineer",
       "department": "Engineering",
-      "slug": "engineering",
-      "description": "We're looking for a seasoned backend developer to help us maintain and expand our suite of internal and external APIs for the restaurant industry. Our RESTful API services multiple clients (mobiles apps, websites, third-party services) so experience with versioning, caching and token-based security mechanisms is a must. You'll be designing, documenting, building and deploying RESTful JSON APIs on a daily basis.<br><br>We're 100% remote and proud of it. You can pick where and when you work, as long as you stay productive and we have some overlapping hours to do standups. Our company has registered entities in Thailand and Singapore so we can offer sponsored visas if you'd like to live-in or visit either country.<br><br>We're looking for a \"smart and gets s**t done\" kind of person, so real world experience and the right attitude trumps formal accreditation.",
+      "slug": "api-engineer",
+      "description": "We're looking for a seasoned backend developer to help us maintain and expand our suite of internal and external APIs for the restaurant industry. Our RESTful API services multiple clients (mobiles apps, websites, third-party services) so experience with API versioning, caching and token-based security mechanisms is a must. You'll be designing, documenting, building and deploying RESTful JSON APIs on a daily basis.<br><br>As a remote worker, you can pick where and when you work, as long as you stay productive and we have some overlapping hours to do standups.",
       "responsibilities": [
         "Work with the CTO to architect scalable web solutions.",
         "Mentor other developers, encouraging them to develop their skills and expertise.",
         "Continuously ship real value to the end user.",
-        "Deliver performant, reliable, maintainable and tested code.",
-        "Plan and estimate project timelines and delivery dates.",
-        "Perform daily stand-up meetings.",
+        "Deliver performant, maintainable and tested systems.",
+        "Work with the team to plan and estimate project timelines and delivery dates.",
+        "Take part in daily stand-up meetings.",
         "Help to refine and develop the processes and procedures of the engineering team."
       ],
       "experiences": [
         "Multiple years working in a professional software development environment.",
         "Proven track record of delivering software with <i>agility</i>.",
-        "Strong skills in PHP (5+) development",
+        "Strong skills in PHP (5+) development.",
         "Experience building large web applications using MVC frameworks, preferably Laravel 5+",
         "Experience building RESTful JSON APIs for consumption by single page web applications.",
         "Understanding of patterns and techniques for building scalable back-end infrastructure (caching, client rate limiting, authentication and authorization schemes).",
         "Functional knowledge of Git and GitHub.",
         "Proficient English communication skills, both written and spoken.",
-        "A passion for restaurants, cuisine or just good food in general. For bonus points include your favourite cuisine and dish in your intro email."
+        "An active interest in exploring and using other backend languages (Golang, Elixir, Node, etc.)",
+        "A passion for restaurants, cuisine or just good food in general. For bonus points include your favourite cuisine or dish in your intro email."
       ],
-      "link": "mailto:careers@foodkit.io?subject=API%20Developer"
+      "link": "mailto:careers@foodkit.io?subject=API%20Engineer"
     }
   }
 }
